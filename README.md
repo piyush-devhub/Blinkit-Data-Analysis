@@ -36,7 +36,7 @@ Power BI dashboard contains:
 ## 📎 Files Included
 - `Blinkit_Analysis.ipynb`: Python code
 - `SQLQuery2.sql`: SQL scripts
-- `dashboard.pbix`: Power BI dashboard
+- `Blinkit Dashboard.pbix`: Power BI dashboard
 - `Blinkit Data Analysis Documentation.pdf`: PDF report (for download)
 
 ## 👤 Author
